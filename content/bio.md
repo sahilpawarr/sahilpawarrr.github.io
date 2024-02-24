@@ -1,0 +1,9 @@
+I recently graduated with honors in economics from the **[Gokhale Institute of Politics and Economics](https://gipe.ac.in/)**. I am passionate about economic development, fiscal policy and venture capital.
+
+Currently, i’m working as a Founder’s Office Associate at **[Cambridge Wealth](https://www.cambridgewealth.in/)**, a fintech startup in the wealth management space, where I work directly with the CEO on business strategy, system design and investment research modelling.
+
+While at university, I interned for the **[Standord Doerr School of Sustainability](https://sustainability.stanford.edu/)** for the **[FUSE](https://sahilpawarr.github.io/sahilpawarr111.github.io/fuse.stanford.edu)** project where I did field research and data analysis on the FWE consumption during Covid-19 and was a project intern at the **[Policy Research Organisation](https://sahilpawarr.github.io/sahilpawarr111.github.io/policyresearch.in)** where I worked with historical data of Pune Municipal Corporation’s annual budgets, to offer informed policy recommendations to local policymakers. Additionally, I interned at **[Evolve](https://sahilpawarr.github.io/sahilpawarr111.github.io/evolveinc.io)** for their Growth and Analytics team and as a UX researcher at **[Moonraft Innovation Labs](https://sahilpawarr.github.io/sahilpawarr111.github.io/moonraft.com)** where I worked on the strategy to execute a virtual reality metaverse project for a global tech event.
+
+I am a generalist at heart and possess an inherent curiosity to dive into practically everything around me that I wish to find answers to. I’ve always said my perfect career would be whatever pays me to just learn everything all the time for no specific reason. like a scholar for hire.
+
+If you wish to collaborate or discuss ideas, please email me at [1sahilpawar@gmail.com](mailto:1sahilpawar@gmail.com). I’m always up for a chat.
