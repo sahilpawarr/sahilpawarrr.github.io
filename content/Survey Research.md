@@ -1,4 +1,4 @@
-[[statistics]] [[data]] [[Book Notes/Data Analysis for Social Science|Data Analysis for Social Science]]
+[[statistics]] [[data]] [[Data Analysis for Social Science|Data Analysis for Social Science]]
 
  - Sample: subset of individuals chosen for a study
  - Sample is represented by n

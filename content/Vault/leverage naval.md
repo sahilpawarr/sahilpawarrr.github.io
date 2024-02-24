@@ -1,4 +1,4 @@
-[[Vault/naval Ravikant]] [[Book Notes/Navalmanack Notes]] [[leverage]] [[Blogpost Ideas]]
+[[Vault/naval Ravikant]] [[Navalmanack Notes]] [[leverage]] [[Blogpost Ideas]]
 [link](https://nav.al/product-media)
 
 The most interesting and the most important form of leverage is this idea of products that have no marginal cost of replication. This is the new form of leverage

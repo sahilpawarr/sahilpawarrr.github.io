@@ -1,5 +1,5 @@
 #sapling
-[[statistics]] [[data]] [[Book Notes/Data Analysis for Social Science]]
+[[statistics]] [[data]] [[Data Analysis for Social Science]]
 
 
 - Definition: 
