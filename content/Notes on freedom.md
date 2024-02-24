@@ -1,0 +1,27 @@
+There is a remarkably uniform description of the type of life that a young, intelligent person is supposed to live.
+
+They should have graduated with a well paying job in hand. They should be ambitious about their career, and find a job that both pays well and does good in the world. They should be pushing their limits at work everyday, because afterall, they need to create disproportionate value today to have a well compounded textbook "good" future later. They should live in an apartment in a big city. They should look for a romantic partner.  They should not be at home alone on Friday night. They should hit the gym 5 times a week and meditate 20 mins a day. They should eat “good food,” which refers to a mix of ethnic cuisine originating from distant lands that most people couldn’t reliably locate on a map, and unorthodox vegetable concoctions that in spite of their noble intentions contain enough added sugar to tranquilize an elephant.
+
+I could keep going on and on, but you know what I’m talking about.
+
+People run ragged and are head over heels trying to prove to society and thereby themselves, to become the protagonists of the “young professional” narrative (which itself is simply a thread in the even more complex “good person” narrative). Trying to fill this role myself felt like being simultaneously waterboarded and tickled aggressively. I was strapped to the ancient Egyptian operating table and sinister robed men were methodically draining my love for life out of my nose.
+
+It at times feels like I am running too fast. Convincing myself that I know where I am running towards. And that destination is definitely something I've always aspired to want. I personally have never aspired to sit on the 25th floor corner office some day. Is this what I'm even chasing?
+
+If you read this blog, I can only assume that you, like me, seek some sort of release. I originally thought that quitting my job would provide that release—it did not, and I was naive to think that freedom would be so easily obtained.
+
+The first step towards freedom, as I understand it, is to stop asking permission to do the things you want to do. When I was about to quit my job I told myself that what is the missing piece in the puzzle is that I'm inexperienced for the corporate world and should go back to school and complete my masters. I asked many friends and family members what they thought—in retrospect, I wasn’t taking their opinions into account, but rather their sentiment. The reality was I wanted someone to sanction my resignation, so I didn’t have to shoulder it myself. Infact in some shape or form applying for masters in itself was me shouldering my decision on something -- just so I can burden of this decision on something. 
+
+However, that burden—responsibility for and ownership of one’s choices—is literally freedom. Somewhat fortunately, nobody else agreed that I should quit my job, and so when I quit I did it knowing that I had made my own choice.
+
+On the same note, I believe that the human behaviour to seek a shoulder to share the burden with results in us not introspecting to find the true decision maker within us. Most problems ive had in life are actually within me and associated with my inability to act on decisions, but the funny part is that I've often associated it with an external entity, just so I can share the burden and push it off. 
+
+The desire for permission is closely tied to anxiety (“promise me that nothing will go wrong”), and so I think both can be fruitfully addressed at the same time.
+
+The second step is to free yourself from narrative. As I mentioned, me telling myself I'm quitting to apply for masters is a narrative I've set for my own self. It’s easy to believe that true freedom involves lazily sipping tequila on the beaches of Bali; after all, most of the quit-your-job influencers seem to orbit that region of the world. Well, news flash: doing what you think a free person should do isn’t true freedom. That’s just a different narrative with a different set of protagonists. One can easily spend a lifetime hopping between stories designed by various moneyed interests and call it “progress.” Freedom from narrative means that I can do things without wondering what sort of person each choice makes me, or whether I’m a good or bad person. I can change my mind with incredible agility.
+
+By the way, the only meaningful answer to that question, of what sort of person you are, is the tautological one: you are you. Everything else is narrative.
+
+The final step, the one that I’m working on, is freedom from self-analysis. I conjecture that true freedom is the rekindling of childlike innocence. The concept of the self is weakened, and one becomes immersed in the flow of life. Thoughts and actions are unified as one process. The rickety scaffolding of language is discarded, as there is no need to interrogate oneself any longer. After all, the answers are obvious. They always have been. 
+
+*Side note* : I ended up actually dropping my idea to do a master's degree this year and took up a role as a data scientist at Data For India, working under a lady who's work I truly admire. I most likely will do a master's sooner than later, but I feel the ability to self analyse and free myself from the inability to take decisions is freedom and happiness in its true nature for me. And at the moment I'm happy. And free :) 

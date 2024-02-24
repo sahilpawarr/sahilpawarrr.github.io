@@ -1,0 +1,8 @@
+- [[Phrases to use]]]  Blackbox to Glassbox. from no transperency to transperenceyp
+- PET Score - Performance, Empathy, Transperancy
+- When you go to a restaurant, asking waiter what is good, good way to see if hes being empathic from a customer POV. this is because he could have said "sab acha hai" but some waiters take the interest and effort to give better CX
+- there is inherent structural advantage to the player who builds scale
+- [[Book Notes/Zero to One]] [[Competition is for for Losers]] airline industry vs telecome industry example 
+- to build a company you need a telescope in one eye and a microscope in the other (ability to zoom in and zoom out)
+- everyone in this room is guaranteed to earn money. good economy good education good opportunities - so money is a given. real question is what impact you had  in the 40 years you worked, did you just go home with the money?
+- 

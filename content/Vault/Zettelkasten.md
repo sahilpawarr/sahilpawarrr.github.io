@@ -1,0 +1,3 @@
+[[Productivity]]
+Nikalas Luhmann wrote about 70 books and 500 articles in his lifetime. He used a system of note taking which involved joining thoughts and ideas together such that they resembled threads like ones in Twitter. 
+SImilar to a brain which jumps from one thought to the other and travels through thoughts by a link, Zettelkasten is a method which connects your thoughts and ideas which one captures thorughout a lifetime and connects them into almost like a second brain which acts like a storage center of ideas and inspiration

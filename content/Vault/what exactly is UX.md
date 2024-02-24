@@ -1,0 +1,4 @@
+[[UX Design]]
+If I have done my job correctly, you’ll never notice.
+
+As soon as you are frustrated with something, that’s when I’m doing my job wrong or when a designer might need to be brought onto a team. My work should be invisible to you if it’s done right. User experience design is about making a product more satisfying to use by improving its accessibility and usability. What I mean by that (without using buzzwords) is that if I am working on, for example, a website, you should be able to enter it and easily understand how to use it without any pause or hesitation. It should be both natural to understand and satisfying in that it gets you what you want. There won’t be any blinking signs saying “UX used here!” because we are working behind the scenes to create an obviously enjoyable product.

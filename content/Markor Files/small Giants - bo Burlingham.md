@@ -1,0 +1,1 @@
+To an extraordinary degree, our view of business—indeed, our whole concept of what business is—has been shaped by publicly owned companies, which actually make up a small percentage of the entire business population, and by fast-growing technology ventures, which is an even smaller group

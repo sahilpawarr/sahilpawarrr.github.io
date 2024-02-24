@@ -1,0 +1,1 @@
+#quote The first rule is that you can't really know anything if you just remember isolated facts and try and bang 'em back**. If the facts don't hang together on a latticework of theory, you don't have them in a usable form.

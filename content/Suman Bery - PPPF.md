@@ -1,0 +1,5 @@
+- [[Partially closed capital account ]]
+- European capital markets opened in 1985????
+- current account liberalisation
+- capital account liberalisation
+- [[Capital Account Convertiblity (CAC)]]

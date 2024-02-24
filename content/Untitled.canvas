@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"5bd7de294eaed136","x":-500,"y":110,"width":250,"height":60,"type":"text","text":""},
+		{"id":"d21a34d5d391c379","x":20,"y":380,"width":400,"height":338,"type":"file","file":"Pasted image 20221118215407.png"},
+		{"id":"1827f41116417f9d","x":-80,"y":-200,"width":400,"height":440,"type":"file","file":"Harm Principle.md"}
+	],
+	"edges":[]
+}
