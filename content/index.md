@@ -15,8 +15,8 @@ Apart from all this, you'll find me playing or watching football, reading books,
 
 Here are some places you may want to visit:
 - [[The 'about' page|bio]]: a more structured bio of who I am
-- [[Posts|The oak letter desk]]: A collection of my favourite writings
-- [[Projects|The workbench]]: a selection of projects I have worked on
+- [[Posts 1|The oak letter desk]]: A collection of my favourite writings
+- [[Projects 1|The workbench]]: a selection of projects I have worked on
 - [[A Failure Resume|The crumpled pages in a recycling bin]]: my failure resume
 - [[The bookshelf]]: books that are in some state of read, being read, or to be read.
 
