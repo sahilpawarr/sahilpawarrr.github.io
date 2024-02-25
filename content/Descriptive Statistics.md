@@ -1,4 +1,4 @@
-[[data]][[statistics]][[Data Analysis for Social Science|Data Analysis for Social Science]]
+[[data]][[statistics]][[Book Notes/Data Analysis for Social Science|Data Analysis for Social Science]]
 
 Two types:
 - Measures of Centrality - eg: Mean, median
