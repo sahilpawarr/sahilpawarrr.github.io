@@ -7,13 +7,6 @@ import * as Plugin from "./quartz/plugins"
  * See https://quartz.jzhao.xyz/configuration for more information.
  */
 const config: QuartzConfig = {
-  configuration: {
-    pageTitle: "sahilpawar.xyz",
-    enableSPA: true,
-    enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
     locale: "en-US",
     baseUrl: "https://sahilpawarr.github.io",
     ignorePatterns: ["private", "templates", ".obsidian"],
