@@ -3,7 +3,7 @@ title: Sahil Pawar
 ---
 Hey there! I am sahil, and this is my little hypertext [[Networked Thought|garden]] on the internet. 
 
-Currently, I'm exploring the intersection of data and finance at [Cambridge Wealth](cambridgewealth.in) . My interests include largely everything related to [[Economics|economics]] - but more specifically I care deeply for areas revolving around macroeconomic policy, fintech, microfinance based financial inclusion and decarbonization. 
+Currently, I'm exploring the intersection of data and finance at [Cambridge Wealth](https://www.cambridgewealth.in/) . My interests include largely everything related to [[Economics|economics]] - but more specifically I care deeply for areas revolving around macroeconomic policy, fintech, microfinance based financial inclusion and decarbonization. 
 
 I am passively [[curious]] about practically everything that I wish to find answers to. I’ve always said my perfect career would be whatever pays me to just learn everything all the time for no specific reason. like a scholar for hire.
 

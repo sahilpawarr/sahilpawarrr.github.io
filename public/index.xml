@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>🪴 Quartz 4.0</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on 🪴 Quartz 4.0</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Untitled</title>
+    <link>https://quartz.jzhao.xyz/Untitled</link>
+    <guid>https://quartz.jzhao.xyz/Untitled</guid>
+    <description></description>
+    <pubDate>Sat, 24 Feb 2024 15:02:40 GMT</pubDate>
+  </item><item>
+    <title>this is a book</title>
+    <link>https://quartz.jzhao.xyz/this-is-a-book</link>
+    <guid>https://quartz.jzhao.xyz/this-is-a-book</guid>
+    <description></description>
+    <pubDate>Sat, 24 Feb 2024 15:02:40 GMT</pubDate>
+  </item><item>
+    <title>readme</title>
+    <link>https://quartz.jzhao.xyz/readme</link>
+    <guid>https://quartz.jzhao.xyz/readme</guid>
+    <description>hi this is sahil.</description>
+    <pubDate>Sat, 24 Feb 2024 14:43:01 GMT</pubDate>
+  </item><item>
+    <title>Sahil Pawar</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description>I recently graduated with honors in economics from the Gokhale Institute of Politics and Economics. I am passionate about economic development, fiscal policy and venture capital.</description>
+    <pubDate>Sat, 24 Feb 2024 14:43:01 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
