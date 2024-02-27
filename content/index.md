@@ -9,7 +9,11 @@ I am passively [[curious]] about practically everything that I wish to find answ
 
 Here you'll find all my [[bad ideas]] and me trying to make fruitful sense of these ideas by finding connections in them. Think of it as an extension of my thoughts - almost like a second brain! 
 
-For more long form polished work, you can check out my [substack](sahilpawar.substack.com) here. 
+For more long form polished work, you can check out my [substack](https://sahilpawar.substack.com/) here. 
+
+<iframe src="https://sahilpawar.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe> 
+
+
 
 Apart from all this, you'll find me playing or watching football, reading books, listening to podcasts or trying to improve my German. I also have begun running regularly and am currently trying to break the mental block of 5 kms in 20 minutes.
 
