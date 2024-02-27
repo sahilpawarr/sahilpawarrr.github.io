@@ -14,7 +14,7 @@ For more long form polished work, you can check out my [substack](sahilpawar.sub
 Apart from all this, you'll find me playing or watching football, reading books, listening to podcasts or trying to improve my German. I also have begun running regularly and am currently trying to break the mental block of 5 kms in 20 minutes.
 
 Here are some places you may want to visit:
-- [[The 'about' page|bio]]: a more structured bio of who I am
+- [[bio|The 'about' page|]]: a more structured bio of who I am
 - [[Posts 1|The oak letter desk]]: A collection of my favourite writings
 - [[Projects 1|The workbench]]: a selection of projects I have worked on
 - [[A Failure Resume|The crumpled pages in a recycling bin]]: my failure resume
