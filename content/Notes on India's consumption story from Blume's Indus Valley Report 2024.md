@@ -1,5 +1,12 @@
+
 ### Key Takeaways:
-- India's Global Standing: Despite being the world's 5th largest economy, India ranks at No. 140 in GDP per capita, highlighting a significant disparity in wealth distribution.
+- #### India's Global Standing: 
+	- Despite being the world's 5th largest economy, India ranks at No. 140 in GDP per capita, highlighting a significant disparity in wealth distribution.
+- #### Income Disparity
+	- Despite a population of 1.4 billion, only 0.3% contribute significantly to income tax collection, leading to high government borrowing and limited corporate investments.
+	- The report reveals that a mere 0.3% of India’s vast population contributes to a staggering 80% of income tax collection. This disproportion not only impacts government borrowing but also sheds light on the limited corporate investments within the country.
+	- Blume Ventures identifies approximately 30 million households as the outer limit of India’s consuming class, comprising about 10% of total Indian households.
+- 
 - #### Consumption-Led Growth:
 	- Despite our low per capita income and underconsumption, we have a largish rising ascendant affluent class 
 	- Approximately 30 million households are identified as major consumption drivers, spotlighting the potential for targeted economic strategies
@@ -15,7 +22,7 @@
 	- The answer is low capital utilization. What does this mean?
 	- Low capital utilisation occurs when existing capital assets are not fully utilized to their potential, leading to inefficiencies in the economy, as resources are underutilized, and businesses may refrain from making new investments or expanding operations.
 	- ![](https://lh7-us.googleusercontent.com/4fxeWOReiL9FF_XOyh9m5mXd2cmZg7LoWeKADX_KBkR_TnpQOBpJK9Tn9fcnesNErtZDaQNL2WLSpDa0UdSlxGqJRYu35P_u2q_LEBx6Vy84zGgHQ65EXqhypPp2WWOvZBIeSZzi7IGm1hyxfRc-PoQ)
--  **Rise in unsecured loans and NPAs
+-  **Rise in unsecured loans and NPAs** 
 	- While a rise in personal loans, particularly unsecured ones, can stimulate short-term economic activity, a significant portion of these loans turning into Non-Performing Assets (NPAs) can pose risks to financial stability.
 	- ![](https://lh7-us.googleusercontent.com/kEJeQb7Zt9ai9RedRDHzXQ9eI52F9C-icx4nyfAqWdbWcAScuH-o4ujMIYtJ6vl7H-nW9qwEPPpxC27acr7s28u3tSCPekIw934HsP3eFhCCBB3L3_LP1GCFvgGFQU9DKb638ZjtBywERgLY6hp0ngg)
 	- When NPAs rise, banks may become cautious about lending, leading to a credit crunch and reduced investment in the economy, and unsecured lending that’s on the rise just exacerbates the risks.
@@ -47,9 +54,11 @@
 	- Business enterprises invest least in R&D. Largely government spending. Presumably the perception is that the ROI on R&D is not adequate!!!
 	- Very few people take up research as a career in India. Again presumably because of limited upward mobility. 
 	- ![](https://lh7-us.googleusercontent.com/lEnjMXegfH6d02gm3dFwdr-ap5ce89dQWC5GI_l7LUntKY_NXgcmkunfQzYsEXma6TczGfu5Q1e_hC9JTvcnMB1dtBFaqW1UFLtld3RoGF_keO_2HR3mtdVvGlZBjkDpa6zLk0QyeqWSMalbAEpd8Tc)**
-	- 
+	- #### India’s Consumer Segmentation
+		- "India 1" and "India 2" need to be sub-segmented to truly understand spending habits - "India 1" is like Mexico, but the top 5% are "Singapore class" - "India 2" has a 2.1 group who reside in metro cities, are aspirational, taking on loans etc to mimic India 1.
+		- Indian PE is mature; Indian VC is immature - PE shops in India today are returning as much money to LPs as they are deploying back - Indian VC returns have yet to catch up to their pace of fund deployment PS: This is something worth digging deeper into because in mature markets like US, VC funds distribute as much money back to LPs each year as they take from LPs in new funds 
+		- Macro picture - Premiumization e.g. K shape in vehicle sales (more SUVs, less entry level cars) - Investment: Low CAPEX from private sector but high CAPEX from Govt sector; hence GSecs dominate the domestic bond market - Taxes: Low tax to GDP ratio results in high Govt debt to GDP ratio (we have too few tax payers!)
+
 Props to the Blume team for yet another goldmine of knowledge and insights with this report. Of course, the actual report covers many more key aspects and I would highly suggest you check it out [here](https://docsend.com/view/zqgfupfzyud499hn). 
 
-To share your thoughts on this post or connect with me,  please email me at 1sahilpawar@gmail.com 
-  
-
+To check out my networked thoughts and notes, check my [website](https://www.sahilpawarr.github.io) . To share your thoughts on this post or connect with me,  please email me at 1sahilpawar@gmail.com 
