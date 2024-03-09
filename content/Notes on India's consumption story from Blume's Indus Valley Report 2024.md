@@ -30,34 +30,26 @@
 	- Only 1.5% of Indians contribute to the nation's income tax, underscoring the narrow tax base in contrast to the population size.
 - ![](https://lh7-us.googleusercontent.com/x9wS-OMwaV-ZpQmiaNcu_Nx8uF0ejv4U5XIxJaAoYeZwNOgA2gJnTqaGICmsq2NUWFpHVUphHzMQEQN61RpdxY2prFcjaywQSHI_h9N08qWKsr1zRkGB1PbCtV_ERnuPelZBg2QsZotpzIizpO2-oUs)
 - Positive Future Outlook: The report also presents an optimistic view of the growing consumption class, suggesting steady economic expansion ahead.
+
 ### Some of the ‘Aha’ moments I had while reading the report: 
 
-- ##### Despite the dramatic run up in stock markets, the TOTAL market cap of all listed companies is smaller than the market cap of just two US companies!!!
+- ###### Despite the dramatic run up in stock markets, the TOTAL market cap of all listed companies is smaller than the market cap of just two US companies!!!
 - ![](https://lh7-us.googleusercontent.com/jSrjOMfuyGXQJkeb8m0qI6buxd7rFCJ89mSALzEiQ399PdF8y10Jpcvi7Qyuryin6Rs7cZqnGzpSMhgSAWKkDaR5YN5FGCpTRNrKjFz-dUXGWe2fo3L6xeZWu-VtPBXtlUU6EAZwzLZnWYTvEkZkT5E)
 
-- Though there has been a lot of talk of unicorns and gang-buster IPO’s, 77% of listed companies trade at a valuation below Rs. 2000 crores. Takeaway: huge upside potential.
+- ###### Though there has been a lot of talk of unicorns and gang-buster IPO’s, 77% of listed companies trade at a valuation below Rs. 2000 crores. Takeaway: huge upside potential.
 - ![](https://lh7-us.googleusercontent.com/jSrjOMfuyGXQJkeb8m0qI6buxd7rFCJ89mSALzEiQ399PdF8y10Jpcvi7Qyuryin6Rs7cZqnGzpSMhgSAWKkDaR5YN5FGCpTRNrKjFz-dUXGWe2fo3L6xeZWu-VtPBXtlUU6EAZwzLZnWYTvEkZkT5E)
 - ![](https://lh7-us.googleusercontent.com/YOXU8b3Td6B5St4aApZu5JBUbcITKJhX6HBJuNORaNtf7NUcESkZz6ZyPN5ZWFUXKtzVpM9D9tkzAMTgsQIxBG90EE7N3daz4YAAiF_ugy_17rpZ7oAII6wRdYc1XX3pcHkl9m5-boJIAtTs6JUx3Gc)
 
-- The mutual fund AUM in india leapfrogged from 8 trillion US to 50 trillionUSD in the last 10 years.
+- ###### The mutual fund AUM in india leapfrogged from 8 trillion USD to 50 trillion USD in the last 10 years.
 - ![](https://lh7-us.googleusercontent.com/ksFJd8QGzDRGVzzyosZkBGjPr0JbiRgalObj09ri96CXarVPoNvRUFWYHL3Y08dp6YMlpfx5d9WaW7gknb7R8JXphuHhjOyL4UQ5yEt9wtbU9KUwW3Xj-0sgIOgxab_2ryuTaxPiOoSCix8lPLZd8fY)
+- ###### Another data point reinforcing something I've spoken earlier - low investment in R&D in India 
+- Couple of key takeaways 
+	- Business enterprises invest least in R&D. Largely government spending. Presumably the perception is that the ROI on R&D is not adequate!!!
+	- Very few people take up research as a career in India. Again presumably because of limited upward mobility. 
+	- ![](https://lh7-us.googleusercontent.com/lEnjMXegfH6d02gm3dFwdr-ap5ce89dQWC5GI_l7LUntKY_NXgcmkunfQzYsEXma6TczGfu5Q1e_hC9JTvcnMB1dtBFaqW1UFLtld3RoGF_keO_2HR3mtdVvGlZBjkDpa6zLk0QyeqWSMalbAEpd8Tc)**
+	- 
+Props to the Blume team for yet another goldmine of knowledge and insights with this report. Of course, the actual report covers many more key aspects and I would highly suggest you check it out [here](https://docsend.com/view/zqgfupfzyud499hn). 
 
+To share your thoughts on this post or connect with me,  please email me at 1sahilpawar@gmail.com 
   
 
-Another data point reinforcing something I've spoken earlier - low investment in R&D in India 
-
-Couple of key takeaways 
-
-  
-
-1. Business enterprises invest least in R&D. Largely government spending. Presumably the perception is that the ROI on R&D is not adequate!!!
-
-2. Very few people take up research as a career in India. Again presumably because of limited upward mobility. 
-
-  
-
-This is not new and has been known for a while but still getting no traction.  What will it take? 
-
-  
-
-![](https://lh7-us.googleusercontent.com/lEnjMXegfH6d02gm3dFwdr-ap5ce89dQWC5GI_l7LUntKY_NXgcmkunfQzYsEXma6TczGfu5Q1e_hC9JTvcnMB1dtBFaqW1UFLtld3RoGF_keO_2HR3mtdVvGlZBjkDpa6zLk0QyeqWSMalbAEpd8Tc)**
