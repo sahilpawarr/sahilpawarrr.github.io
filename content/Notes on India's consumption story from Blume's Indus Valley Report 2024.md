@@ -1,4 +1,4 @@
-
+#fruit 
 ### Key Takeaways:
 - #### India's Global Standing: 
 	- Despite being the world's 5th largest economy, India ranks at No. 140 in GDP per capita, highlighting a significant disparity in wealth distribution.
