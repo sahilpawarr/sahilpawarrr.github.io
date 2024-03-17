@@ -34,5 +34,10 @@ Python Lists
 - Remove
 	`courses.remove = ['History']
 	
-	 
-`
+
+[[NFHS]]
+
+## Binary Tree
+- ##### Searching
+	- More efficient way to search because if it was linear in nature then finding an element would be complex to the order of n. But if you search by a binary tree, your search complexity is effectively getting reduced by half at every stage
+
