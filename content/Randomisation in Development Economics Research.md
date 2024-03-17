@@ -2,7 +2,7 @@
 
 Following are notes I made while preparing for a Research Associate role at J-PAL, back in December of 2023. Although I couldn't get the job, it did help me get till the final interview for 3 projects. So the idea of making this publicly available is the sliver of hope that these notes help atleast one person get into JPAL. 
 
-Please note that this is not an EXHAUSTIVE list and neither can I guarantee that this answers all the questions. What I can say is that these notes will give you a strong footing in understandind randomisation, RCTs and just dev econ in general. 
+Please note that this is not an EXHAUSTIVE list and neither can I guarantee that this answers all the questions. What I can say is that these notes will give you a strong footing in understandindg randomisation, [[RCTs]], [[causal inference]] and just [[Development Economics]] in general. 
 
 ----
 ##### Why J-PAL/Why development sector?
