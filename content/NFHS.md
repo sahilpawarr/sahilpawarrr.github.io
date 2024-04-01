@@ -8,13 +8,9 @@
 - **Sample Size and Coverage:**
     - Covered 707 districts, 28 states, and 8 union territories.
     - Utilized a uniform sample design representative at the national, state/UT, and district levels.
-- **Stratification:**
-    - Districts divided into urban and rural areas.
-    - Rural areas further stratified based on village population and percentage of SC/ST population.
-    - Urban areas stratified based on percentage of SC/ST population.
-- **Selection Process:**
+- **Stratification:** // **Selection Process:**
     - Rural areas: Villages selected as Primary Sampling Units (PSUs) based on literacy rate of women age 6+ years.
-    - Urban areas: Census Enumeration Blocks (CEBs) selected as PSUs based on percentage of SC/ST population.
+	    - Urban areas: Census Enumeration Blocks (CEBs) selected as PSUs based on percentage of SC/ST population.
     - Within PSUs, households selected using equal probability systematic selection.
 - **Sample Representation:**
     - 30,456 PSUs selected across the country, with 30,198 completing fieldwork.
@@ -44,3 +40,27 @@
 
 - For example, if rural areas are less likely to be sampled but represent a large portion of the population, households from rural areas will receive higher weights to ensure their representation in the survey results.
 
+#### Types of Sample Weights in NFHS-5:
+- Household Weight:
+	- - This weight is assigned to each household in the survey.
+	- It's calculated based on the household's probability of being selected for the survey and the household's response rate.
+- **State-Level Household Weight (shv005)**:
+	- Similar to hv005 but used specifically for estimating state-level household indicators and district-level indicators within selected states.
+	- Essentially, it's a version of hv005 adjusted for state-level analysis.
+- **Individual Weight for Women (v005)**:
+	- This weight is assigned to each woman surveyed within a household.
+	- Calculated by multiplying the household weight (hv005) by the individual woman's response rate.
+	- Used for estimating women's indicators at different levels, similar to household weight but at an individual level.
+- **State-Level Individual Weight for Women (sv005)**:
+	- Similar to v005 but used specifically for estimating state-level individual indicators and district-level indicators within selected states.
+- **Individual Weight for Men (mv005)**:
+	- Similar to v005 but used for men surveyed within households.
+	- Calculated using the household weight for the men's subsample and the individual men's response rate.
+- **State-Level Individual Weight for Men (smv005)**:
+    - Similar to mv005 but used specifically for estimating state-level individual indicators and district-level indicators within selected states.
+- **Domestic Violence Weight (d005)**:
+    - This weight is specifically adjusted for the domestic violence module.
+    - Calculated based on the individual weight for women (v005) adjusted for within-household selection probabilities and non-response for the domestic violence module.
+    - Used for estimating women's indicators related to domestic violence at various levels.
+- **State-Level Domestic Violence Weight (sd005)**:
+    - Similar to d005 but used specifically for estimating state-level domestic violence indicators.
