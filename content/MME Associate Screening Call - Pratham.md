@@ -1,4 +1,5 @@
 #seed  
+[[Pratham Education]]
 Two buckets -- Direct programs and govt partnerships
 Direct Programs --  our team that conducts classes
 Focus here is basically depth
