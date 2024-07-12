@@ -51,3 +51,27 @@ Meeting with the DM
 - Repeatedly mentioned how we should do this before the CM visit and communicate this to CM office that this work is being done in Champawat
 - One point to note here is that the CM is the MLA from Champawat itself
 - Reflection here is to understand the incentive structures of bureaucrats and what motivates them to take up certain projects over others
+
+
+Won't another program being conducted at the same time on treatment group be a confounding variable?
+
+### Q. How different is the overall growth of the girl child when she studies in an all girls school as compared to a co-ed school?
+
+
+
+10/7
+GGIC Khetikhan 
+- azim premji for teacher training, 9-12 kosallam
+- most teachers are transferred and classes are left vacant because of this
+- principal was supportive and allowed for the sessions without any issues
+- question: what role does caste play in doing favours for someone or for getting things done quicker? (Anecdote of how principal asked taruns surname and once she found some familiar connections suddenly became even more helpful )
+
+## GIC Khetikhan: 
+- computers exist but there's no one to actually teach anything related to the computer 
+- low attendance despite providing evrything for free. 
+- family itself stops children from going to school for reasons of maybe marriage, helping in the field, basically negligence from parents towards education because of other factors. Distance is also a factor 
+- 
+1UCOST 2x (6-10)
+Stem Lab (6-10)
+Koshallam (9-12) (teacher teaching their skills)
+Anandam (6-8)
