@@ -1,0 +1,6 @@
+[[School Attendance Information or Conditional Cash  Transfer. Evidence from a Randomized Field Experiment in Rural Bangladesh]]
+
+- In Zambia, evidence shows cash transfers increased farmland by 36%, along with significant increase in the use of seeds, fertilizers and hired labour. The overall agicultural production increased by 41%. 
+- Cash causes dependency and laziness?: In several countries research finds reduction in causal wage labour, shift to on-farm and more productive activities.
+- Do cash transfers lead to price inflation? No inflation was detected in over 6 experimental studies. Reason for this was beneficiaries are a small share of the community, typically 15%. They come from the poorest households with low purchasing power and thus dont buy enough to affect market prices. Low economics can meet the increased demand. Thus, cash transfers positively impact local economics and boost growth and development in rural areas. In Ethiopia for example, for ever dollar transferred by the programme, about $1.50 was generated for the local economy
+- Can Child focused cash transfers increase [[Fertility Rates]] 

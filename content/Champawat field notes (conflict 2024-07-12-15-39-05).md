@@ -1,26 +1,25 @@
 [[Champawat]]
 
-- All shops named after surnames -- Tiwari, Pandey, Chaubeji mishtann -- Connotation to caste?
+- All shops named after surnames -- tiwari, Pandey, chaubeji mishtann -- connotation to caste?
 - Is there a caste based segregation within the town and is it based on geography -- people on hills vs people in the valley 
 - Lack of public transport and the perception of the residents around it
 
 Schools:
-- GGIS Champawat
-- Khimtoli
-- Khetikhan
-- Dhunaghat
+Ggis champawat
+Khimtoli
+Khetikhan
+Dhunaghat
 
 Intervention:
 GGIS Champawat: 
 - grouping with friends
 - reluctance to coming in the front and speaking up
 
-Khimtoli -
+Khimtoli-
 - insistence on wanting to read and learn English 
 - Girls having a reluctance to group up with guys
 
 Dhunaghat:
-- 
 
 
 ### what's the point of getting sahmati 
@@ -46,8 +45,21 @@ Won't another program being conducted at the same time on treatment group be a c
 
 
 
-Meeting with the DM
-- DM speaking to people from Swachatta Sarvekshan regarding opening a sanitation park in Champawat and to do projects to fund awareness related to sustainability
-- Repeatedly mentioned how we should do this before the CM visit and communicate this to CM office that this work is being done in Champawat
-- One point to note here is that the CM is the MLA from Champawat itself
-- Reflection here is to understand the incentive structures of bureaucrats and what motivates them to take up certain projects over others
+10/7
+GGIC Khetikhan 
+- azim premji for teacher training, 9-12 kosallam
+- most teachers are transferred and classes are left vacant because of this
+- principal was supportive and allowed for the sessions without any issues
+- question: what role does caste play in doing favours for someone or for getting things done quicker? (Anecdote of how principal asked taruns surname and once she found some familiar connections suddenly became even more helpful )
+- 
+
+
+## GIC Khetikhan: 
+- computers exist but there's no one to actually teach anything related to the computer 
+- low attendance despite providing evrything for free. 
+- family itself stops children from going to school for reasons of maybe marriage, helping in the field, basically negligence from parents towards education because of other factors. Distance is also a factor 
+- 
+UCOST 2x (6-10)
+Stem Lab (6-10)
+Koshallam (9-12) (teacher teaching their skills)
+Anandam (6-8)

@@ -1,0 +1,47 @@
+
+Fertility rate is a key driver of the size and composition of the population and it represents the number of children that would be born to a woman if she were to live to the end of her childbearing years and bear children in accordance with age-specific fertility rates of the specified year.
+
+![](https://lh7-us.googleusercontent.com/docsz/AD_4nXcAe7kQXrfaO65aGerRKOxOt_wRXv6_d6E_E2QZwbHL1LXiXohp1PoiIcqT15c-RHvKmduMeTPaJiUDiVDQMyNPlgAyWWOzCH--0gAFkyrxdMCYb_AK6dH5TJriqXSHSKs347_DgMlnjC8g9us9BpWMTDAa?key=IUVIuNjlThRl-mD1I-t1tg)
+
+According to [United Nations](https://population.un.org/wpp/) projections, the global population is expected to reach 9.7 billion by 2050, peaking at around 10.4 billion in the mid-2080s. Historically, global fertility rates were much higher, often ranging from 4.5 to 7 children per woman. However, beneath these figures lie notable variations, with as many as 73 developing countries experiencing smaller growth in TFR in 2010-2020 as compared to the previous decade. This trend is particularly evident in high-income and upper-middle-income nations, where declining fertility rates have persisted for decades and have been below the replacement  level  (2.1 births per woman) [(Gu, 2021)](https://weekly.chinacdc.cn/en/article/pdf/preview/10.46234/ccdcw2021.160)                            
+
+India has experienced a significant decline in fertility rates, with the total fertility rate dropping from 5.2 to 2.2 over 35 years ([Radkar, 2020](https://journals.sagepub.com/doi/abs/10.1177/0972063420937925?journalCode=jhma)). This decline has been attributed to a variety of factors, including the increased use of traditional family planning methods in some regions ([Halli, 2022](https://www.semanticscholar.org/paper/Declining-fertility-and-increasing-use-of-methods-a-Halli-Alam/f1f7b33cd06cf2cc10b634083778975be4bb3aec)). However, the pace and contours of this decline have been largely self-sustained and are forecasted to continue at a faster rate than previously projected ([Guilmoto, 2016](https://www.semanticscholar.org/paper/Fertility-Decline-in-China%2C-India-and-Indonesia%3A-an-Guilmoto/1d2890458c8cf39136c28bcc5489e14ef0cfeb1b)). This decline has had a range of effects, including a reduction in population growth and maternal mortality, as well as changes in the population pyramid (Radkar, 2020). The recent report by [The Lancet](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)00550-6/fulltext), highlighted this decline in India’s fertility rates from 6.18 children per woman in 1950 to a projected 1.29 children per woman by 2050 and further to 1.04 children per woman by 2100. 
+
+![](https://lh7-us.googleusercontent.com/docsz/AD_4nXcwJSVVRYv7ckouMvZLgHGzPo3xkr0e8q-uXJ0Q2nTt6MZU8yoa_H4xh8N8h5VEkTUYW5VYH1-7nh7tUXsPoACT28caHxDCSmiY5tfUsiBauHlRm_hRTtfpthLBU7Pfhy1bT-89PvjRlpX2HrnXOWUyp57_?key=IUVIuNjlThRl-mD1I-t1tg) 
+
+As societies have modernized and health outcomes improved, fertility rates have globally declined. Factors such as women's empowerment through education and workforce participation, declining child mortality rates, and the rising costs of child-rearing have contributed to this decline ([Mohanty, 2016](https://www.semanticscholar.org/paper/Distal-Determinants-of-Fertility-decline%3A-Evidence-Mohanty-Fink/df5bedf41c5dbe480c67323227f942d59902475a)). Increasing prosperity, particularly through the education of women and a shift in life's purpose away from procreation, is another key driver ([Aitken, 2022](https://www.semanticscholar.org/paper/The-changing-tide-of-human-fertility-Aitken/d6dd3252df66068814f7277a1873cd8687a55025)). Population density is a further factor, with higher densities associated with declining fertility rates ([Rotella, 2020](https://www.semanticscholar.org/paper/Increasing-population-densities-predict-decreasing-Rotella-Varnum/caf26b42dacab7870d516609ce3823a3de65bcb1))
+
+The average total fertility rate in Europe has dropped to 1.5 children per woman in  ([Yoldemir, 2012](https://pubmed.ncbi.nlm.nih.gov/22395068/)), influenced by changing partnership dynamics, evolving values, and increased infertility treatment utilization. Similarly, in China, the TFR, which was at an all time high in the 1960s with an average of 7.5 births per woman, saw a sharp decline in the next decades with the introduction of China’s One Child Policy, as well as the subsequent liberalization. declining fertility rates are attributed to factors such as changes in marital fertility rates and postponement of marriage.
+
+![](https://lh7-us.googleusercontent.com/docsz/AD_4nXdXLArpImZE0S-Bpx5WpLDWUkBKQ_8-Q3Acjp_5YmiqsmCfj9IGZgprWZvwj2x9cVCYpF0DDWqWu50MwtNFfuV9F3HXD7aCVRPb7TY_JtE24rqV7A26nZJCPOEnkSEel43-3bD8aZJDqRPFqh4T_MHKJBA?key=IUVIuNjlThRl-mD1I-t1tg)
+
+Conversely, certain regions like Sub-Saharan Africa continue to experience high fertility rates as compared to the global average in the past two decades ([Sunmola, 2020](https://www.semanticscholar.org/paper/High-fertility-level-in-Sub-Saharan-Africa%3A-for-and-Sunmola-Olaosebikan/a62b6ec832c6e401667094404ee9dc5275c1b84f)). In these regions fertility levels remain substantially above the global average, driven by cultural norms valuing larger families and limited access to contraception and family planning services. [Niger](https://www.wfpusa.org/countries/niger/), a landlocked country in Western Africa and the country with the highest fertility rate in the world, has averaged over 7.5 children per woman for the last 50 years ([WFP, 2022](https://www.wfpusa.org/countries/niger/)). The country’s population rapidly climbed from 3.5 million people in 1960 to nearly 20 million in 2023, with half of the current population under the age of 15. The result of this is that over 80% of Niger’s population lives in poverty. The country is largely desert, less than 20% of the land is arable, and that number is shrinking due to climate change. At current growth rates, the population is set to double in 17 years. This, [experts](https://www.prb.org/international/geography/niger) say, drives poverty, famine, political instability, and violence.
+
+In conclusion, global fertility trends reflect a story of an interplay of multiple socio-economic, cultural, and policy factors. While developed nations experience declining fertility rates due to factors such as women's empowerment and economic prosperity, regions like Sub-Saharan Africa grapple with high fertility rates driven by cultural norms and limited access to contraception. Addressing these disparities requires targeted interventions aimed at improving access to family planning services, promoting women's education and empowerment, and fostering sustainable development. By understanding and addressing the multifaceted drivers of fertility rate dynamics, societies can strive towards achieving equitable demographic outcomes and sustainable development goals.  
+
+References:
+
+1. Aitken, R. J. (2022). The changing tide of human fertility. Human Reproduction (Oxford, England), 37, 629–638. https://www.semanticscholar.org/paper/The-changing-tide-of-human-fertility-Aitken/d6dd3252df66068814f7277a1873cd8687a55025
+    
+2. Gu, D., Andreev, K., & E. Dupre, M. (2021). Major Trends in Population Growth Around the World. China CDC Weekly, 3(28), 604–613. https://doi.org/10.46234/ccdcw2021.160
+    
+3. Halli, S. S., Alam, M. T., Joseph, A., Prakash, R., Isac, S., Becker, M., Anand, P., Vasanthakumar, N., Ramesh, B. M., & Blanchard, J. (2023). Declining fertility and increasing use of traditional methods of family planning: a paradox in Uttar Pradesh, India? Journal of Biosocial Science, 55(2), 224–237. https://doi.org/10.1017/S0021932022000086
+    
+4. Hay, S. (2024). Global fertility in 204 countries and territories, 1950–2021, with forecasts to 2100: a comprehensive demographic analysis for the Global Burden of Disease Study 2021. The Lancet. https://doi.org/10.1016/S0140-6736(24)00550-6
+    
+5. International. (n.d.). PRB. Retrieved March 30, 2024, from https://www.prb.org/international/geography/niger
+    
+6. Mohanty, S. K., Fink, G., Chauhan, R., & Canning, D. (2016). Distal determinants of fertility decline: Evidence from 640 Indian districts. Demographic Research, 34, 373–406. https://doi.org/10.4054/demres.2016.34.13
+    
+7. Niger. (n.d.). World Food Program USA. https://www.wfpusa.org/countries/niger/
+    
+8. Radkar, A. (2020). Indian Fertility Transition. Journal of Health Management, 22(3), 413–423. https://doi.org/10.1177/0972063420937925
+    
+9. Rotella, A., Michael, Sng, O., & Grossmann, I. (2021). Increasing population densities predict decreasing fertility rates over time: A 174-nation investigation. https://doi.org/10.31234/osf.io/zpc7t
+    
+10. Sunmola, A. K., Olaosebikan, J. S., & Adeusi, T. J. (2020). High fertility level in Sub-Saharan Africa: implication for reaping and optimizing demographic dividend. International Journal of Community Medicine and Public Health, 7(9), 3698. https://doi.org/10.18203/2394-6040.ijcmph20203947
+    
+11. United Nations. (2022). World population prospects. UN; United Nations. https://population.un.org/wpp/
+    
+
+Yoldemir, T., & Oral, E. (2012). Has fertility declined in recent decades? Current Opinion in Obstetrics and Gynecology, 24(3), 119–126. https://doi.org/10.1097/gco.0b013e32835213f1**

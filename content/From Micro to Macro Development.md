@@ -1,4 +1,4 @@
-[[Vault/Economics|Economics]] [[econ papers]]
+[[Vault/Economics|Economics]] [[research papers]]
 
 - local average treatment effect
 - 
