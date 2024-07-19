@@ -17,3 +17,15 @@
 | vicarious   | second hand feelings through someone else's experience |
 | avarice     | greed                                                  |
 | preemptive  | done before someone else can do it                     |
+![[Pasted image 20240712162513.png]]
+
+![[Pasted image 20240712163101.png]]
+
+corroborative
+inculpatory
+
+The travelogue is a thorny genre, even for seasoned writers, for one must ______________ a curious balance between inspired navel-gazing and reportage with a cosmopolitan slant
+
+authenticitygravitasgrandeursolemnityverisimilitudedanger
+
+parsimonylavishnessoutspokennessstinginessverbosity
