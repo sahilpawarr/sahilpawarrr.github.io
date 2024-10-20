@@ -1,6 +1,22 @@
 ---
 title: Sahil Pawar
 ---
+currently project manager at [Global Action for Policy Lab](https://cssh.northeastern.edu/gap/), where I support research and advisory projects aimed at economic growth in low and middle income countries through data and policy
+
+previously, associate at the ceo’s office at [Cambridge Wealth](https://www.cambridgewealth.in/)
+
+before that i studied economics from the [Gokhale Insitute of Politics and Economics](https://gipe.ac.in) in pune
+
+while at university, I interned with research institutions such as [Stanford Doerr School of Sustainability](https://fuse.stanford.edu/), Policy Research Organisation and technology firms including [Moonraft Innovation Labs](https://moonraft.com/) and [Evolve Inc](https://evolveinc.io/)
+
+you can read my long form writings [here](www.sahilpawar.substack.com)
+
+i’m always up for a chat, feel free to ping me anytime :)
+
+twitter   linkedin   mail
+
+
+
 Hey there! I am sahil, and this is my little hypertext [[Networked Thought|garden]] on the internet. 
 
 Currently, I'm exploring the intersection of data and finance at [Cambridge Wealth](https://www.cambridgewealth.in/) . My interests include largely everything related to [[Economics|economics]] - but more specifically I care deeply for areas revolving around macroeconomic policy, fintech, microfinance based [[financial inclusion]] and decarbonization. 
