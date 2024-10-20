@@ -5,7 +5,7 @@ currently, project manager at [Global Action for Policy Lab](https://cssh.northe
 
 previously, chief of staff at the ceo’s office at [Cambridge Wealth](https://www.cambridgewealth.in/) where I lead strategic initiatives and business growth. 
 
-before that i studied economics from the [Gokhale Insitute of Politics and Economics](https://gipe.ac.in) in pune
+before that i studied economics and statistics at the [Gokhale Insitute of Politics and Economics](https://gipe.ac.in) in pune
 
 while at university, I interned with research institutions such as [Stanford Doerr School of Sustainability](https://fuse.stanford.edu/), [Policy Research Organisation](https://www.policyresearch.in/) and early stage startups including [Evolve Inc](https://evolveinc.io/) and [Moonraft Innovation Labs](https://moonraft.com/) 
 
