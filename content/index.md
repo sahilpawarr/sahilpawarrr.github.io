@@ -11,7 +11,7 @@ while at university, I interned with research institutions such as [Stanford Doe
 
 i am curious about everything around me but more specifically am interested in business strategy, macroeconomics fintech and decarbonization 
 
-you can read my long form writings [here](https://www.sahilpawar.substack.com)
+you can read my long form writings [here](https://sahilpawar.substack.com)
 
 i’m always up for a chat, feel free to ping me anytime :)
 
