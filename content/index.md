@@ -7,7 +7,7 @@ previously, chief of staff at the ceo’s office at [Cambridge Wealth](https://w
 
 before that i studied economics from the [Gokhale Insitute of Politics and Economics](https://gipe.ac.in) in pune
 
-while at university, I interned with research institutions such as [Stanford Doerr School of Sustainability](https://fuse.stanford.edu/), Policy Research Organisation and early stage startups including [Evolve Inc](https://evolveinc.io/) and [Moonraft Innovation Labs](https://moonraft.com/) 
+while at university, I interned with research institutions such as [Stanford Doerr School of Sustainability](https://fuse.stanford.edu/), [Policy Research Organisation](https://www.policyresearch.in/) and early stage startups including [Evolve Inc](https://evolveinc.io/) and [Moonraft Innovation Labs](https://moonraft.com/) 
 
 i am curious about everything around me but more specifically am interested in business strategy, macroeconomics fintech and decarbonization 
 
