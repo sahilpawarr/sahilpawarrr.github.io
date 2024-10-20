@@ -1,9 +1,9 @@
 ---
 title: sahil pawar
 ---
-currently, project manager at [Global Action for Policy Lab](https://cssh.northeastern.edu/gap/), where i lead multiple advisory projects aimed at economic growth in low and middle income countries through data and research. 
+currently, project manager at [Global Action for Policy Lab](https://cssh.northeastern.edu/gap/), where i lead advisory projects aimed at economic growth in low and middle income countries through data and research. 
 
-previously, chief of staff at the ceo’s office at [Cambridge Wealth](https://www.cambridgewealth.in/) where i was responsible for building systems and scaling business
+previously, chief of staff at the ceo’s office at [Cambridge Wealth](https://www.cambridgewealth.in/) where I lead strategic initiatives and business growth. 
 
 before that i studied economics from the [Gokhale Insitute of Politics and Economics](https://gipe.ac.in) in pune
 
